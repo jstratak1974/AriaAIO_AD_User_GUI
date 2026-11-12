@@ -61,4 +61,4 @@ For interactive accounts the GUI enforces at least 12 characters and at least 3 
 
 ## Important
 
-This program was syntax-checked, but it cannot be live-tested against your hospital AD from ChatGPT. Run **AD Preflight** and **What-If** in your test/T-Box environment first, then validate with your local IT/Varian security procedure before production use.
+This program was syntax-checked, but it cannot be live-tested against hospital AD. Run **AD Preflight** and **What-If** in your test/T-Box environment first, then validate with your local IT/Varian security procedure before production use.
